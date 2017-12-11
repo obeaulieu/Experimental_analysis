@@ -1,3 +1,7 @@
+#This creates a NetCDF to organize all the time-lapse photographs taken during the experiments.
+#Photo should already be timestamped 
+#Change the name of ncfile
+
 import numpy as np
 from scipy import ndimage
 import matplotlib.image as mpimg
